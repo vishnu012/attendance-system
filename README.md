@@ -1,3 +1,1 @@
-# attendance-system
-# attendance-system
-# attendance-system
+### An automated attendance system based on face recognition 
